@@ -1,9 +1,10 @@
-# 👩🏻‍💻 Bruna Bassan
+# 👩🏻‍💻 Bruna Bassan Dias
 
-**`Estudante de Ciência da Computação`**
+<img src="Banner.png" alt="Banner" width="100%" />
 
-Me chamo Bruna Bassan Dias e tenho 20 anos. Atualmente, curso Ciência da Computação na Universidade Cruzeiro do Sul. 
-</br> Sou apaixonada por tecnologia desde a infância!
+:wave: Me chamo Bruna Bassan Dias e tenho 20 anos. 
+</br> :books: Atualmente, curso Ciência da Computação na Universidade Cruzeiro do Sul. 
+</br> :hearts: Sou apaixonada por tecnologia desde a infância!
 
 ---
 
