@@ -3,7 +3,7 @@
 <img src="Banner.png" alt="Banner" width="100%" />
 
 :wave: Me chamo Bruna Bassan Dias e tenho 20 anos. 
-</br> :books: Atualmente, curso Ciência da Computação na Universidade Cruzeiro do Sul. 
+</br> :books: Atualmente, curso Ciência da Computação.
 </br> :hearts: Sou apaixonada por tecnologia desde a infância!
 
 ---
